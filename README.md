@@ -2,7 +2,7 @@
 
 
 - 📃 [blogs](https://www.jianshu.com/u/53f6d183864a)
-- 🌱 I’m currently learning  programming to solve problems
+- 🌱 I’m currently learning rust
 - 👯 I want to be a scientist or programmer in the future
 
 
