@@ -4,7 +4,9 @@
 - 📃 [blogs](https://www.jianshu.com/u/53f6d183864a)
 - 🌱 I’m currently learning rust
 - 👯 I want to be a scientist or programmer in the future
-
+- 😄 Research Interest:
+  + Graph Pangenome
+  + Machine   Learning
 
 <a href="#">
   <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=zhangyixing3&count_private=true&show_icons=true&theme=github&hide_border=true" />
